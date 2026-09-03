@@ -378,3 +378,21 @@ cv:
           ]
         date: "2022-04"
         journal: "2022 105th KAS Spring Meeting, Oral"
+    awards:
+      - name: "1st Prize"
+        date: "2026-06"
+        summary: "The 17th KIAS CAC Summer School on AI & Parallel Computing."
+        note: "(Solar Wind Speed Forecasting: Data-Driven & Physics-Informed Machine Learning)"
+      - name: "3rd Prize"
+        date: "2024-09"
+        summary: "The 1st KASI–KAIST AI Competition in Astronomy & Space Science."
+        note: "(AI-Based Detection of Sunspots, Coronal Holes, and Prominences)"
+
+design:
+  theme: classic
+  templates:
+    normal_entry:
+      main_column: |-
+        **NAME:** SUMMARY
+        NOTE
+      date_and_location_column: "DATE"
