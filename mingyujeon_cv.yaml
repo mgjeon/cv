@@ -1,0 +1,380 @@
+cv:
+  name: "Mingyu Jeon"
+  location: "Yongin, Korea"
+  email: "mgjeon@khu.ac.kr"
+  website: "https://mgjeon.com/"
+  social_networks:
+    - network: "GitHub"
+      username: "mgjeon"
+  sections:
+    personal_details:
+      - label: "Date of birth"
+        details: "1999 April 27"
+      - label: "Nationality"
+        details: "Republic of Korea (South Korea)"
+      - label: "Languages"
+        details: "Korean (native), English"
+      - label: "ORCID"
+        details: "0009-0004-7798-5052"
+    education:
+      - institution: "Kyung Hee University"
+        area: "Solar Physics"
+        degree: "PhD"
+        start_date: "2025-03"
+      - institution: "Kyung Hee University"
+        area: "Solar Physics"
+        degree: "MS"
+        start_date: "2023-09"
+        end_date: "2025-02"
+      - institution: "Kyung Hee University"
+        area: "Astronomy & Space Science"
+        degree: "BS"
+        start_date: "2018-03"
+        end_date: "2023-08"
+    publications:
+      - title: Interpretable Data-driven Model Reveals Current Helicity Evolution as Key
+          to Solar Flare Forecasting
+        authors:
+          - Youngjae Kim
+          - Yong-Jae Moon
+          - Hyun-Jin Jeong
+          - G. S. Choe
+          - Jihyeon Son
+          - "**Mingyu Jeon**"
+        journal: The Astrophysical Journal Letters
+        date: 2026-06
+        doi: 10.3847/2041-8213/ae6cf8
+      - title: "Artificial-intelligence-based Reconstruction of Solar Farside Vector
+          Magnetograms from Multispacecraft Extreme-ultraviolet Data"
+        authors:
+          - Hyun-Jin Jeong
+          - Eunsu Park
+          - Harim Lee
+          - Junmu Youn
+          - "*Mingyu Jeon*"
+          - Yong-Jae Moon
+          - Stefaan Poedts
+          - Francesco Carella
+          - Haopeng Wang
+          - Daeil Kim
+          - Youngjae Kim
+          - Jihye Kang
+        doi: "10.3847/1538-4365/ae21b8"
+        date: "2025-12"
+        journal: "The Astrophysical Journal Supplement Series"
+      - title: "Prediction of the Next Solar Rotation Synoptic Maps Using an Artificial
+          Intelligence–based Surface Flux Transport Model"
+        authors:
+          [
+            "Hyun-Jin Jeong",
+            "*Mingyu Jeon*",
+            "Daeil Kim",
+            "Youngjae Kim",
+            "Ji-Hye Baek",
+            "Yong-Jae Moon",
+            "Seonghwan Choi"
+          ]
+        doi: "10.3847/1538-4365/adc447"
+        date: "2025-04"
+        journal: "The Astrophysical Journal Supplement Series"
+      - title: "Real-time Extrapolation of Nonlinear Force-free Fields from Photospheric
+          Vector Magnetic Fields Using a Physics-informed Neural Operator"
+        authors:
+          [
+            "*Mingyu Jeon*",
+            "Hyun-Jin Jeong",
+            "Yong-Jae Moon",
+            "Jihye Kang",
+            "Kanya Kusano"
+          ]
+        doi: "10.3847/1538-4365/adbaea"
+        date: "2025-04"
+        journal: "The Astrophysical Journal Supplement Series"
+      - title: "Telescope control software and proto-model siderostat for the SDSS-V
+          Local Volume Mapper"
+        authors:
+          [
+            "Hojae Ahn",
+            "Florian Briegel",
+            "Jimin Han",
+            "*Mingyu Jeon*",
+            "Thomas M. Herbst",
+            "Sumin Lee",
+            "Woojin Park",
+            "Sunwoo Lee",
+            "Inhwan Jung",
+            "Tae-Geun Ji",
+            "Changgon Kim",
+            "Geon Hee Kim",
+            "Wolfgang Gaessler",
+            "Markus Kuhlberg",
+            "Hyun Chul Park",
+            "Soojong Pak",
+            "Nicholas P. Konidaris",
+            "Niv Drory",
+            "José R. Sánchez-Gallego",
+            "Cynthia S. Froning",
+            "Solange Ramirez",
+            "Juna A. Kollmeier"
+          ]
+        doi: "10.1117/1.jatis.10.3.037001"
+        date: "2024-08"
+        journal: "Journal of Astronomical Telescopes, Instruments, and Systems"
+      - title: "Spatial and spectral characteristics of the Jovian polar haze inferred
+          from 2- Juno/JIRAM spectro-images"
+        authors:
+          [
+            "Jaekyun Park",
+            "Sang Joon Kim",
+            "*Mingyu Jeon*",
+            "Chae Kyung Sim",
+            "Henrik Melin",
+            "Régis Courtin",
+            "Jong Ho Seon"
+          ]
+        doi: "10.1016/j.icarus.2024.116139"
+        date: "2024-05"
+        journal: "Icarus"
+      - title: "3D Magnetic Free Energy and Flaring Activity Using 83 Major Solar
+          Flares"
+        authors:
+          [
+            "Khojiakbar Karimov",
+            "Harim Lee",
+            "Hyun-Jin Jeong",
+            "Yong-Jae Moon",
+            "Jihye Kang",
+            "Jihyeon Son",
+            "*Mingyu Jeon*",
+            "Kanya Kusano"
+          ]
+        doi: "10.3847/2041-8213/ad3548"
+        date: "2024-04"
+        journal: "The Astrophysical Journal Letters"
+      - title: "Automatic spectrograph control software for SDSS-V Local Volume Mapper"
+        authors:
+          [
+            "Changgon Kim",
+            "José Sánchez-Gallego",
+            "Pavan Bilgi",
+            "Mingyeong Yang",
+            "Florian Briegel",
+            "Tae-Geun Ji",
+            "Nicholas P. Konidaris",
+            "Taeeun Kim",
+            "Hojae Ahn",
+            "*Mingyu Jeon*",
+            "Hyun Chul Park",
+            "Hye-In Lee",
+            "Cynthia S. Froning",
+            "Solange Ramirez",
+            "Niv Drory",
+            "Juna A. Kollmeier",
+            "Soojong Pak"
+          ]
+        doi: "10.1117/1.jatis.9.3.037002"
+        date: "2023-09"
+        journal: "Journal of Astronomical Telescopes, Instruments, and Systems"
+    presentations:
+      - title: How Reliable Are AI-Based Magnetograms from EUV Images for Anti-Hale
+          Active Regions?
+        authors:
+          - "*Mingyu Jeon*"
+          - Hyun-Jin Jeong
+          - Daeil Kim
+          - Youngjae Kim
+          - Yong-Jae Moon
+        journal: 2026 KASI Solar and Space Weather Workshop, Poster
+        date: 2026-07
+      - title: "Real-Time Reconstruction of 3D Coronal Magnetic Fields Using a
+          Physics-informed Neural Opeartor"
+        authors:
+          [
+            "*Mingyu Jeon*",
+            "Hyun-Jin Jeong",
+            "Yong-Jae Moon",
+            "Jihye Kang",
+            "Kanya Kusano"
+          ]
+        date: "2025-10"
+        journal: "ESWW 2025, Oral"
+      - title: "Yearly Variation of the 3-Micron Polar Bright Spot of Jupiter Compared
+          with Solar Wind Fluxes"
+        authors: [ "Sang Joon Kim", "*Mingyu Jeon*", "Chae Kyung Sim", "Chihiro Tao" ]
+        date: "2025-10"
+        journal: "ESWW 2025, Poster"
+      - title: "Real-Time Reconstruction of Solar Coronal Magnetic Fields Using a
+          Physics-Informed Neural Opeartor"
+        authors:
+          [
+            "*Mingyu Jeon*",
+            "Hyun-Jin Jeong",
+            "Yong-Jae Moon",
+            "Jihye Kang",
+            "Kanya Kusano"
+          ]
+        date: "2025-09"
+        journal: "3rd ML-Helio, Oral"
+      - title: "Towards Improving DEM Determination from AI-Generated EUV Images of
+          Solar Orbiter"
+        authors: [ "*Mingyu Jeon*", "Junmu Youn", "Yong-Jae Moon" ]
+        date: "2025-04"
+        journal: "2025 KSSS Spring Conference, Oral"
+      - title: "Development of an AI-based Model for Denoising Solar Magnetic Field and
+          Improvement of Solar Synoptic Magnetic Field Maps"
+        authors:
+          [
+            "Jihye Kang",
+            "Yong-Jae Moon",
+            "Harim Lee",
+            "Hyun-Jin Jeong",
+            "Junmu Youn",
+            "*Mingyu Jeon*",
+            "Daeil Kim"
+          ]
+        date: "2025-04"
+        journal: "2025 KSSS Spring Conference, Oral"
+      - title: "Exploring the Potential of Diffusion Models for Solar Image-to-Image
+          Translation"
+        authors: [ "*Mingyu Jeon*", "Yong-Jae Moon" ]
+        date: "2025-01"
+        journal: "2025 KASI Solar and Space Weather Workshop, Poster"
+      - title: "Real-Time Reconstruction of Solar Coronal Magnetic Fields using
+          Physics-Informed Neural Opeartor"
+        authors:
+          [
+            "*Mingyu Jeon*",
+            "Hyun-Jin Jeong",
+            "Yong-Jae Moon",
+            "Jihye Kang",
+            "Kanya Kusano"
+          ]
+        date: "2024-10"
+        journal: "2024 KSSS Fall Conference, Oral"
+      - title: "Preliminary Results of Auroral Recognition Procedure by using Deep
+          Learning Technique in All-Sky Auroral Image Data"
+        authors:
+          [
+            "Yujin Cho",
+            "Geonhwa Jee",
+            "*Mingyu Jeon*",
+            "Hyuck-Jin Kwon",
+            "Ji Eun Kim",
+            "Young-Bae Ham",
+            "Changsup Lee",
+            "Ji-Hye Baek"
+          ]
+        date: "2024-10"
+        journal: "2024 KSSS Fall Conference, Oral"
+      - title: "A Data-Centric Approach to Enhancing Object Detection in Solar Images"
+        authors: [ "Seungheon Shin", "Jaewon Lee", "*Mingyu Jeon*", "Yong-Jae Moon" ]
+        date: "2024-10"
+        journal: "2024 KSSS Fall Conference, Poster"
+      - title: "Near Real-Time Extrapolation of Nonlinear Force-Free Fields from
+          Photospheric Vector Magnetograms Using Physics-Informed Neural
+          Operators"
+        authors: [ "*Mingyu Jeon*", "Hyun-Jin Jeong", "Yong-Jae Moon", "Kanya Kusano" ]
+        date: "2024-07"
+        journal: "COSPAR 2024, Oral"
+      - title: "Prediction of Next Solar Rotation Synoptic Maps Using an AI-based Solar
+          Surface Flux Transport Model"
+        authors:
+          [
+            "Hyun-Jin Jeong",
+            "*Mingyu Jeon*",
+            "Daeil Kim",
+            "Youngjae Kim",
+            "Ji-Hye Baek",
+            "Yong-Jae Moon",
+            "Seonghwan Choi"
+          ]
+        date: "2024-07"
+        journal: "COSPAR 2024, Oral"
+      - title: "Preliminary Results of AI-Based Solar Photospheric Flux Transport
+          Models"
+        authors:
+          [
+            "Hyun-Jin Jeong",
+            "*Mingyu Jeon*",
+            "Daeil Kim",
+            "Youngjae Kim",
+            "Ji-Hye Baek",
+            "Yong-Jae Moon",
+            "Seonghwan Choi"
+          ]
+        date: "2023-10"
+        journal: "2023 KSSS Fall Conference, Oral"
+      - title: "Major Flaring Activity Depending on the Phase of 3D Magnetic Free
+          Energy"
+        authors:
+          [
+            "Khojiakbar Karimov",
+            "Harim Lee",
+            "Yong-Jae Moon",
+            "Jihye Kang",
+            "Hyun-Jin Jeong",
+            "*Mingyu Jeon*",
+            "Jihyeon Son",
+            "Kanya Kusano"
+          ]
+        date: "2023-10"
+        journal: "2023 KSSS Fall Conference, Oral"
+      - title: "Are Physics-Math-Based Iteration Methods and Physics-Informed Neural
+          Network Methods in Static Magnetic Field Calculation More Different or
+          More Similar?"
+        authors: [ "Gwangson Choe", "Sibaek Yi", "Minseon Lee", "*Mingyu Jeon*" ]
+        date: "2023-04"
+        journal: "2023 KSSS Spring Conference, Oral"
+      - title: "SDSS-V LVM-I Observation Control Software: SCP, ECP and NPS"
+        authors:
+          [
+            "Mingyeong Yang",
+            "Changgon Kim",
+            "José Sánchez-Gallego",
+            "Florian Briegel",
+            "Felipe Besser",
+            "Pavan Bilgi",
+            "Hojae Ahn",
+            "Tae-Geun Ji",
+            "Nicholas P. Konidaris",
+            "Guillermo A. Blanc",
+            "Taeeun Kim",
+            "*Mingyu Jeon*",
+            "Hyun Chul Park",
+            "Hye-In Lee",
+            "Erika Cook",
+            "Cynthia S. Froning",
+            "Solange Ramirez",
+            "Niv Drory",
+            "Juna A. Kollmeier",
+            "Soojong Pak"
+          ]
+        date: "2022-04"
+        journal: "2022 105th KAS Spring Meeting, Oral"
+      - title: "Development of siderostat control system for SDSS-V Local Volume Mapper"
+        authors:
+          [
+            "Hojae Ahn",
+            "Florian Briegel",
+            "*Mingyu Jeon*",
+            "Tom Herbst",
+            "Sumin Lee",
+            "Inhwan Jung",
+            "Changgon Kim",
+            "Jimin Han",
+            "Geon Hee Kim",
+            "Wolfgang Gaessler",
+            "Markus Kuhlberg",
+            "Tae-Geun Ji",
+            "Hyun Chul Park",
+            "Soojong Pak",
+            "Nicholas P. Konidaris",
+            "Niv Drory",
+            "José Sanchez-Gallego",
+            "Dmitry Bizyaev",
+            "Cynthia S. Froning",
+            "Solange Ramirez",
+            "Juna A. Kollmeier"
+          ]
+        date: "2022-04"
+        journal: "2022 105th KAS Spring Meeting, Oral"
