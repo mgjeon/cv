@@ -48,7 +48,7 @@ cv:
           - Junmu Youn
           - Yong-Jae Moon
         journal: The Astrophysical Journal Supplement Series
-        date: 2026
+        date: "2026-10"
         doi: 10.3847/1538-4365/aea40d
       - title: A Data-driven Empirical Formula for Solar Wind Speed Prediction Using Symbolic Regression
         authors:
