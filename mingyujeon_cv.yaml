@@ -206,6 +206,30 @@ cv:
         date: "2023-09"
         journal: "Journal of Astronomical Telescopes, Instruments, and Systems"
     presentations:
+      - title: "Can AI-generated Solar Farside Magnetograms Successfully Reproduce Anti-Hale Active Regions?"
+        authors: ["#underline[Mingyu Jeon]", "Hyun-Jin Jeong", "Youngjae Kim", "Daeil Kim", "Yong-Jae Moon"]
+        date: "2026-10"
+        journal: "Korean Astronomical Society Fall Meeting 2026, Oral"
+      - title: "AI-Based Denoising of SDO/AIA Images and Its Application to a Kink Oscillation"
+        authors: ["Daeil Kim", "Yong-jae Moon", "Seungheon Shin", "Junmu Youn", "#underline[Mingyu Jeon]", "Yeoungjae Kim", "Seungwoo Ahn"]
+        date: "2026-10"
+        journal: "Korean Astronomical Society Fall Meeting 2026, Oral"
+      - title: "High-Resolution Differential Emission Measure Analysis with Solar Orbiter/EUI HRI and AI-Generated EUV Channels"
+        authors: ["Junmu Youn", "Yong-Jae Moon", "#underline[Mingyu Jeon]", "Daeil Kim", "Seungwoo Ahn", "Youngjae Kim"]
+        date: "2026-10"
+        journal: "Korean Astronomical Society Fall Meeting 2026, Oral"
+      - title: "Fast Reconstruction of Solar Coronal Nonlinear Force-Free Fields with Gaussian-Separation and Coronal-Current Imprint Retention"
+        authors: ["Youngjae Kim", "Sibaek Yi", "Yeonwoo jang", "Yong-Jae Moon", "#underline[Mingyu Jeon]"]
+        date: "2026-10"
+        journal: "Korean Astronomical Society Fall Meeting 2026, Oral"
+      - title: "Data-driven Empirical Formulae of the CME Traveling Time Using Symbolic Regression"
+        authors: ["Changeon Park", "Youngjae Kim", "#underline[Mingyu Jeon]", "Yong-Jae Moon"]
+        date: "2026-10"
+        journal: "Korean Astronomical Society Fall Meeting 2026, Oral"
+      - title: "A New Data-Driven Formula for Solar Wind Speed Prediction by Symbolic Regression"
+        authors: ["Seungwoo Ahn", "Yongjae Kim", "#underline[Mingyu Jeon]", "Hyun-Jin Jeong", "Daeil Kim", "Junmu Youn", "Yong-Jae Moon"]
+        date: "2026-10"
+        journal: "Korean Astronomical Society Fall Meeting 2026, Oral"
       - title: "Are AI-Based Magnetograms from EUV Images Reliable for Anti-Hale Active Regions?"
         authors: ["#underline[Mingyu Jeon]", "Hyun-Jin Jeong", "Youngjae Kim", "Daeil Kim", "Yong-Jae Moon"]
         date: "2026-09"
