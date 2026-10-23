@@ -41,6 +41,15 @@ cv:
         summary: "The 1st KASI–KAIST AI Competition in Astronomy & Space Science."
         note: "(AI-Based Detection of Sunspots, Coronal Holes, and Prominences)"
     publications:
+      - title: Multidomain Solar Extreme-ultraviolet Image Translation and Its Application to Differential Emission Measure Analysis
+        authors:
+          - "#underline[Mingyu Jeon]"
+          - Daeil Kim
+          - Junmu Youn
+          - Yong-Jae Moon
+        journal: The Astrophysical Journal Supplement Series
+        date: 2026
+        doi: 10.3847/1538-4365/aea40d
       - title: A Data-driven Empirical Formula for Solar Wind Speed Prediction Using Symbolic Regression
         authors:
           - Seungwoo Ahn
